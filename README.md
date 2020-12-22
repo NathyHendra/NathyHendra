@@ -7,4 +7,6 @@
 
 ### Hadi sende yukarıdan sunucuma katıl!
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Ertassla&show_icons=true&theme=radical)
+### Yetkili olduğum güzel sunucuya beklerim.
+[![Serendia](https://cdn.discordapp.com/attachments/684118497739145376/790989143051599872/PicsArt_12-22-08.07.54.jpg)](https://discord.gg/serendia)
 
